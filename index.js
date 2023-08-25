@@ -17,7 +17,7 @@ let msg ="hello Start to learn " +name+" my dob "+dob+"";
 // let young = true; // bollean
 // let lastName = undefined;  // undefined
 // let trophy = null;  // null
-
+// ........................................................//
 // Object TOPIC
 
 let person = {
